@@ -13,10 +13,10 @@ loader_x64.exe <输出伪装名称.jpg>
 
 
 ## ByPass
-
-![[Pasted image 20260306164321.png]]
-![[Pasted image 20260306164353.png]]![[Pasted image 20260306164409.png]]
-![[Pasted image 20260306164849.png]]
+![image](https://github.com/nas298041-code/ms/blob/main/pic/1.png)
+![image](https://github.com/nas298041-code/ms/blob/main/pic/2.png)
+![image](https://github.com/nas298041-code/ms/blob/main/pic/3.png)
+![image](https://github.com/nas298041-code/ms/blob/main/pic/4.png)
 
 
 ## Contact
